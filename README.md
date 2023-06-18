@@ -25,7 +25,7 @@ This is used to run tests.
 
 -After the application opens, a login page will be shown which will require a username
 and a password.
-you can use the username as 'User 1' and the password as '1234567' to login to the application.
+you can use the username as 'User 1' and the password as '123456' to login to the application.
 
 The Dashboard has some two default restaurants displayed in a table.
 The table has 6 columns with the Name, Cuisine Type, location columns of the restaurants and the last three columns have an update, View and Delete buttons.
